@@ -1,0 +1,99 @@
+body{
+    margin: 0px;
+    font-family: 'Merriweather',serif; 
+    background-color: #E4FBFF;
+}
+h1{
+   width:30%;
+   margin-top:100px;
+    margin-left:0px;
+    margin-right:0px;
+    font-family: 'Sacramento',cursive;
+    font-size: 50px;
+    color: #66bfbf;
+}
+h2{
+    font-family: 'Montserrat',sans-serif;
+    margin:50px;
+    color:#66BFBF;
+    font-size:40px;
+}
+.img{
+    border-radius:60%;
+    height:200px;
+    width:200px;
+}
+#shashank{
+    height:300px;
+    width:200px;
+    border-radius: 50%;
+}
+hr{
+    border-style: dotted none none;
+    width: 5%;
+    border-width: 5px;
+    margin:50px;
+}
+.bottom-cloud{
+    height: 100px;
+    width:200px;
+    position:absolute;
+    bottom:67%;
+    left:15%;
+}
+.top{
+    background-color:#CDDEFF;
+    padding-top:100px;
+    position: relative;
+}
+.top-cloud{
+    height: 100px;
+    width:200px;
+    position:absolute;
+    right:15%;
+    top:5%;
+}
+.garden{
+    width:100%;
+}
+.link-container{
+    background-color:#9AD0EC;
+}
+.communication{
+    position:relative;
+    left:130px;
+}
+img:hover{
+    background-image: rgb(157, 248, 144);
+}
+.circular{
+    border-radius: 50%;
+    background-color: #6be5f0;
+}
+.Analytical-thinking{
+    position:relative;
+    left:30px;
+}
+.Web-development{
+    position:relative;
+    left:130px;
+}
+.Handling{
+    position:relative;
+    left:30px;
+}
+.programmer{
+    position: relative;
+    left:130px;
+}
+a{
+    color:#11999E;
+}
+h3{
+    color:#11999E;
+    font-size:30px;
+}
+h4{
+    color:#11698E;
+    font-size: 20px;
+}
